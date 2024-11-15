@@ -376,7 +376,11 @@ footer .line-footer p a {
   }
   .certificado .btn-home {
     display: inline-block;
-    text-align: end;
+    text-align: center;
     margin: 0px 90px;
+  }
+  .certificado h1 {
+    font-size: 30px;
+    line-height: 30px;
   }
 }
